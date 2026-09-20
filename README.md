@@ -22,7 +22,7 @@ Create a local `.env` file and keep it out of version control:
 
 ```bash
 PRIVATE_KEY=your_private_key_here
-OWNER_ADDRESS=0xYourWalletAddressHere
+OWNER_ADDRESS=0x82585807240e1932eAbA9b0292e6B099bc43bD69
 INITIAL_SUPPLY=1000000000000000000000
 RPC_URL=https://bsc-testnet.public.bnbstatic.com
 ETHERSCAN_API_KEY=your_bscscan_api_key
